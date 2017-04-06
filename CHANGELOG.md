@@ -1,3 +1,8 @@
+## v1.0.3
+
+* Changed from .css.scss to .scss files, see: https://github.com/sstephenson/sprockets/commit/da2f1d176de6fae0bafc71e9cbf7805271856933
+
+
 ## v1.0.2
 
 * Minor documentation corrections.
